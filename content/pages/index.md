@@ -328,10 +328,10 @@ sections:
           - ml-0
           - mb-0
         padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
+          - pt-5
+          - pl-5
+          - pb-5
+          - pr-5
       subtitle:
         textAlign: center
         fontWeight: 700
