@@ -412,10 +412,10 @@ sections:
     styles:
       self:
         padding:
-          - pb-8
-          - pt-8
-          - pl-8
-          - pr-8
+          - pb-12
+          - pt-12
+          - pl-12
+          - pr-12
         justifyContent: center
         margin:
           - mt-0
