@@ -72,10 +72,10 @@ sections:
             textAlign: left
       - title: ''
         subtitle: 'Cost-Effective: Eliminate the Need for Hourly VAs'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Break free from the traditional reliance on hourly virtual assistants.
+          Our solution offers an economical and more efficient way, reducing
+          costs and enhancing productivity.
         image:
           altText: Featured icon two
           elementId: ''
