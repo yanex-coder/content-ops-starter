@@ -13,7 +13,7 @@ sections:
           fontWeight: 700
     subtitle: ''
     text: >+
-      <div style="text-align: center">#### Why spend hours when you can get the
+      <div style="text-align: center">##### Why spend hours when you can get the
       desired results in just a few clicks? Try Scrabify today and supercharge
       your lead generation!</div>
 
