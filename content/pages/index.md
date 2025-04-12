@@ -56,7 +56,7 @@ sections:
           textAlign: center
           fontWeight: 500
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Why Scrabify?
     items:
       - type: FeaturedItem
         title: ''
