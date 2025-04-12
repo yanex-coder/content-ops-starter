@@ -138,7 +138,7 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 700
-  - subtitle: App who trust us
+  - subtitle: Who Trust Us
     images:
       - url: /images/wellster-logo.svg
         altText: Wellster logo
