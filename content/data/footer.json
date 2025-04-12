@@ -35,6 +35,17 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
+        },
+        {
+            "type": "Link",
+            "label": "Send email",
+            "altText": "Play",
+            "url": "support@scrabify.com",
+            "showIcon": true,
+            "icon": "mail",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "copyrightText": "© 2025 Scrabify All Rights Reserved.\n",
