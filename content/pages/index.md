@@ -43,7 +43,7 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        alignItems: flex-end
+        alignItems: center
         flexDirection: row-reverse
         padding:
           - pt-16
