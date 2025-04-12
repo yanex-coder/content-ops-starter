@@ -361,9 +361,9 @@ sections:
           self:
             padding:
               - pt-2
-              - pl-5
+              - pl-2
               - pb-2
-              - pr-5
+              - pr-2
             textAlign: left
             borderRadius: x-large
             flexDirection: row
