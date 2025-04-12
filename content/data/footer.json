@@ -15,17 +15,6 @@
     ],
     "legalLinks": [
         {
-            "type": "Link",
-            "label": "",
-            "altText": "Play",
-            "url": "support@scrabify.com",
-            "showIcon": true,
-            "icon": "mail",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
             "label": "Terms",
             "url": "/",
             "icon": "arrowRight",
