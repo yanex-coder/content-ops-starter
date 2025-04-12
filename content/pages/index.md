@@ -238,7 +238,6 @@ sections:
           - Feature four
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
           altText: Pricing plan 1
         actions:
           - type: Button
@@ -270,7 +269,6 @@ sections:
           - Feature four
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
           altText: Pricing plan 2
         actions:
           - type: Button
@@ -303,7 +301,6 @@ sections:
           - Feature five
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
           altText: Pricing plan 3
         actions:
           - type: Button
@@ -330,6 +327,11 @@ sections:
           - mt-0
           - ml-0
           - mb-0
+        padding:
+          - pt-10
+          - pl-10
+          - pb-10
+          - pr-10
       subtitle:
         textAlign: center
         fontWeight: 700
@@ -358,10 +360,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-5
-              - pl-5
-              - pb-5
-              - pr-5
+              - pt-2
+              - pl-2
+              - pb-2
+              - pr-2
             textAlign: left
             borderRadius: x-large
             flexDirection: row
@@ -378,10 +380,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-5
-              - pl-5
-              - pb-5
-              - pr-5
+              - pt-2
+              - pl-2
+              - pb-2
+              - pr-2
             textAlign: left
             borderRadius: x-large
             flexDirection: row
@@ -398,10 +400,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-5
-              - pl-5
-              - pb-5
-              - pr-5
+              - pt-2
+              - pl-2
+              - pb-2
+              - pr-2
             borderRadius: x-large
             flexDirection: row
     actions: []
@@ -410,10 +412,10 @@ sections:
     styles:
       self:
         padding:
-          - pb-36
-          - pt-16
-          - pl-3
-          - pr-3
+          - pb-12
+          - pt-12
+          - pl-12
+          - pr-12
         justifyContent: center
         margin:
           - mt-0
@@ -422,6 +424,7 @@ sections:
           - mr-0
       subtitle:
         textAlign: center
+        fontWeight: 700
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
