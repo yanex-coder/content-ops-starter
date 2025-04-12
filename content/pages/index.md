@@ -48,14 +48,6 @@ sections:
       text:
         textAlign: center
   - type: FeaturedItemsSection
-    title:
-      text: Why Scrabify?
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-          fontWeight: 500
-      type: TitleBlock
     subtitle: Why Scrabify?
     items:
       - type: FeaturedItem
