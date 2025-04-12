@@ -96,10 +96,10 @@ sections:
         type: FeaturedItem
       - title: ''
         subtitle: "Flexible Pricing:\_No Monthly Subscriptions"
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Enjoy our transparent, pay-as-you-go pricing model. With no binding
+          monthly subscriptions, you have the flexibility to pay only for the
+          leads you need, aligning your costs with your business needs.
         image:
           altText: Featured icon three
           elementId: ''
