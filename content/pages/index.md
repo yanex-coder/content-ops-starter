@@ -607,7 +607,6 @@ sections:
       styles:
         self:
           textAlign: center
-          textDecoration: line-through
       type: TitleBlock
     subtitle: Featured items section subtitle
     items:
