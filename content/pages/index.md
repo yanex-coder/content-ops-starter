@@ -396,6 +396,8 @@ sections:
     styles:
       self:
         justifyContent: center
+        margin:
+          - mr-2
       subtitle:
         textAlign: center
   - title: Divider
