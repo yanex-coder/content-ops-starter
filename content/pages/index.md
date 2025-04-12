@@ -349,7 +349,7 @@ sections:
     subtitle: Frequently Asked Question
     items:
       - type: FeaturedItem
-        title: Account Executive
+        title: ''
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
