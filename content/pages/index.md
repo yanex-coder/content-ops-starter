@@ -604,7 +604,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: Frequently Asked Question
       color: text-dark
       styles:
         self:
