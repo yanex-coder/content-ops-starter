@@ -17,7 +17,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Get started
+        label: Get started For FREE
         altText: ''
         url: /
         showIcon: false
