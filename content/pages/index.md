@@ -12,8 +12,8 @@ sections:
           textAlign: center
           fontWeight: 700
     subtitle: >-
-      Why spend hours when you can get the results you need in just a few
-      clicks? Try Scrabify today and supercharge your lead generation!
+      Why spend hours when you can get the desired results in just a few clicks?
+      Try Scrabify today and supercharge your lead generation!
     text: ''
     actions:
       - type: Button
