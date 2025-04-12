@@ -6,12 +6,6 @@
     "text": "",
     "socialLinks": [
         {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        },
-        {
             "type": "Social",
             "altText": "Email icon",
             "url": "support@scrabify.com",
