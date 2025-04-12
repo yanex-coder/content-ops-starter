@@ -257,13 +257,6 @@ sections:
         flexDirection: row-reverse
     type: GenericSection
   - type: PricingSection
-    title:
-      type: TitleBlock
-      text: Flexible Pricing
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
     subtitle: Flexible Pricing
     plans:
       - type: PricingPlan
