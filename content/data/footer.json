@@ -23,14 +23,6 @@
             "type": "Link"
         },
         {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "Link",
             "label": "",
             "altText": "Play",
@@ -40,6 +32,14 @@
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
+        },
+        {
+            "label": "Privacy",
+            "url": "/",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         }
     ],
     "copyrightText": "© 2025 Scrabify All Rights Reserved.\n",
