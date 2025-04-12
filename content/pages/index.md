@@ -49,11 +49,12 @@ sections:
         textAlign: center
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Why Scrabify?
       color: text-dark
       styles:
         self:
           textAlign: center
+          fontWeight: 500
       type: TitleBlock
     subtitle: Subtitle goes here
     items:
@@ -134,18 +135,9 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       styles:
         self:
@@ -166,12 +158,12 @@ sections:
         textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
+      - altText: Empathy logo
+        type: ImageBlock
+        url: /images/empathy-logo.svg
       - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
@@ -206,7 +198,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Grow your business
       color: text-dark
       styles:
         self:
@@ -239,7 +231,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: ''
       color: text-primary
       styles:
         self:
@@ -431,7 +423,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/avatar4.svg
           altText: Maria Walters
           styles:
             self:
@@ -609,98 +601,92 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: List of features here
-      color: text-primary
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Frequently Asked Question
+      color: text-dark
       styles:
         self:
           textAlign: center
-      type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Got a question? We're here to answer
     items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
+      - type: FeaturedItem
+        title: Account Executive
+        subtitle: Sales
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        actions: []
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-5
+              - pl-5
+              - pb-5
+              - pr-5
+            textAlign: left
             borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
-        image:
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Open Source Engineer
+        subtitle: Marketing
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        actions: []
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-5
+              - pl-5
+              - pb-5
+              - pr-5
+            textAlign: left
             borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Senior Software Engineer
+        subtitle: Engineering
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        actions: []
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-5
+              - pl-5
+              - pb-5
+              - pr-5
             borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
+            flexDirection: row
+    actions: []
+    variant: toggle-list
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
+          - pb-36
           - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
+          - pl-3
+          - pr-3
         justifyContent: center
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
       subtitle:
         textAlign: center
-    type: FeaturedItemsSection
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
