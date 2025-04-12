@@ -680,6 +680,11 @@ sections:
           - pl-3
           - pr-3
         justifyContent: center
+        margin:
+          - mt-20
+          - ml-20
+          - mb-20
+          - mr-20
       subtitle:
         textAlign: center
 seo:
