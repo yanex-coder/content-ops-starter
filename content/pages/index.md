@@ -49,7 +49,7 @@ sections:
         textAlign: center
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Why Scrabify?
       color: text-dark
       styles:
         self:
