@@ -12,9 +12,11 @@ sections:
           textAlign: center
           fontWeight: 700
     subtitle: ''
-    text: >
-      Why spend hours when you can get the desired results in just a few clicks?
-      Try Scrabify today and supercharge your lead generation!
+    text: >+
+      <div style="text-align: center">#### Why spend hours when you can get the
+      desired results in just a few clicks? Try Scrabify today and supercharge
+      your lead generation!</div>
+
     actions:
       - type: Button
         label: Get started For FREE
