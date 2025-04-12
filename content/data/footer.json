@@ -41,7 +41,7 @@
     },
     "primaryLinks": {
         "type": "FooterLinksGroup",
-        "title": "Company",
+        "title": "",
         "links": [
             {
                 "type": "Link",
