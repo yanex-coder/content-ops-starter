@@ -163,6 +163,7 @@ sections:
         type: ImageBlock
       - altText: Empathy logo
         type: ImageBlock
+        url: /images/empathy-logo.svg
       - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
