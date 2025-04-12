@@ -12,7 +12,9 @@ sections:
           textAlign: center
           fontWeight: 700
     subtitle: ''
-    text: ''
+    text: >
+      Why spend hours when you can get the desired results in just a few clicks?
+      Try Scrabify today and supercharge your lead generation!
     actions:
       - type: Button
         label: Get started For FREE
