@@ -10,6 +10,13 @@
             "url": "/",
             "icon": "mail",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "Email icon",
+            "url": "support@scrabify.com",
+            "icon": "mail",
+            "elementId": ""
         }
     ],
     "legalLinks": [
