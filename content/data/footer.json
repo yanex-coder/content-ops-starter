@@ -32,7 +32,7 @@
         },
         {
             "type": "Link",
-            "label": "Send email",
+            "label": "",
             "altText": "Play",
             "url": "support@scrabify.com",
             "showIcon": true,
