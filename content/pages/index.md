@@ -161,7 +161,7 @@ sections:
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/empathy-logo.svg
+      - url: /images/66a7ffd0b6d8fedc796ce0ff_leadbird-logo-white-new-2-4x-100.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/vise-logo.svg
