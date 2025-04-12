@@ -219,6 +219,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 700
     type: GenericSection
   - title:
       text: Business Consulting
