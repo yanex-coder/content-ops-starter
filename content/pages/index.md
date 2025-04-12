@@ -60,7 +60,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: Numbers Done
+        subtitle: 'Quick Export: Your Leads Delivered in Minutes'
         text: >
           Access your leads faster than ever. Our service provides rapid export
           capabilities, delivering the data you need in minutes.
