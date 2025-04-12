@@ -71,7 +71,7 @@ sections:
             justifyContent: center
             textAlign: left
       - title: ''
-        subtitle: The Job Stuff
+        subtitle: 'Cost-Effective: Eliminate the Need for Hourly VAs'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
