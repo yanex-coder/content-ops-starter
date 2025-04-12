@@ -198,7 +198,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x fasterharmonious-raindrop-6cc932
+      text: Grow your business
       color: text-dark
       styles:
         self:
