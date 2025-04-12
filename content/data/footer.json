@@ -37,7 +37,7 @@
             "url": "support@scrabify.com",
             "showIcon": true,
             "icon": "mail",
-            "iconPosition": "right",
+            "iconPosition": "left",
             "style": "secondary",
             "elementId": ""
         }
