@@ -361,7 +361,7 @@ sections:
           self:
             padding:
               - pt-2
-              - pl-2
+              - pl-5
               - pb-2
               - pr-5
             textAlign: left
