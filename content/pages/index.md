@@ -386,7 +386,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Got a question? We're here to answer
+    subtitle: Frequently Asked Question
     items:
       - type: FeaturedItem
         title: Account Executive
