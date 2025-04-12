@@ -16,15 +16,6 @@ sections:
       clicks? Try Scrabify today and supercharge your lead generation!
     text: ''
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - type: Button
         label: Get started
         altText: ''
