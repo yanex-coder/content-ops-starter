@@ -1,0 +1,27 @@
+{
+    "model": "TitleBlock",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Title",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Fonts"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "text": "Grow your business",
+                "color": "text-dark",
+                "styles": {
+                    "self": {
+                        "textAlign": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/title-block-title-bae4.png"
+        }
+    ]
+}
