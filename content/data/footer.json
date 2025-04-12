@@ -38,7 +38,7 @@
             "showIcon": true,
             "icon": "mail",
             "iconPosition": "right",
-            "style": "primary",
+            "style": "secondary",
             "elementId": ""
         }
     ],
