@@ -379,13 +379,6 @@ sections:
           - pr-7
     type: DividerSection
   - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: Frequently Asked Question
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
     subtitle: Frequently Asked Question
     items:
       - type: FeaturedItem
