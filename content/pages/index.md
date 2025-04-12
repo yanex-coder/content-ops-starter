@@ -11,7 +11,9 @@ sections:
         self:
           textAlign: center
           fontWeight: 700
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Why spend hours when you can get the results you need in just a few
+      clicks? Try Scrabify today and supercharge your lead generation!
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
