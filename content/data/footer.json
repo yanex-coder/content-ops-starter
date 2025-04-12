@@ -4,15 +4,7 @@
         "type": "ImageBlock"
     },
     "text": "",
-    "socialLinks": [
-        {
-            "type": "Social",
-            "altText": "Email icon",
-            "url": "/",
-            "icon": "mail",
-            "elementId": ""
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [
         {
             "label": "Terms",
