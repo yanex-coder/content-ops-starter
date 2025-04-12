@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: "Scrape\_High-Quality\_Leads\_Efficiently."
       color: text-dark
       type: TitleBlock
       styles:
