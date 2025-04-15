@@ -81,7 +81,7 @@ sections:
           elementId: ''
           type: ImageBlock
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
