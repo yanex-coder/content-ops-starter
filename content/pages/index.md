@@ -58,6 +58,7 @@ sections:
         type: ImageBlock
       - altText: Vise logo
         type: ImageBlock
+        url: /images/N8n-logo-new.svg (1).png
       - url: /images/Clay (2).jpg
         altText: Wellster logo
         type: ImageBlock
