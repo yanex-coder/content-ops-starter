@@ -53,7 +53,7 @@ sections:
           - pr-16
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/Make-idU77DJcxU-1.svg
+      - url: /images/make-logo-text-rgb.1defa1c9.svg
         altText: Make logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
