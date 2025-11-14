@@ -58,7 +58,7 @@ sections:
         type: ImageBlock
       - altText: Vise logo
         type: ImageBlock
-        url: /images/6564f450c07b4ba0bdcedae0_Apollo-CaseStudy_logo (1).webp
+        url: /images/Apollo.io New (1).png
       - url: /images/Clay (2).jpg
         altText: Wellster logo
         type: ImageBlock
