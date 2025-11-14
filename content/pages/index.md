@@ -56,8 +56,7 @@ sections:
       - url: /images/Make_idU77DJcxU_1 (1).png
         altText: Make logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
+      - altText: Vise logo
         type: ImageBlock
       - url: /images/Clay Logo Dark (1).png
         altText: Wellster logo
