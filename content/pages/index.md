@@ -54,7 +54,7 @@ sections:
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/Make_idU77DJcxU_0.svg
-        altText: Empathy logo
+        altText: Make logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
