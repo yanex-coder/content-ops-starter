@@ -51,7 +51,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Powered By These Tools
     images:
       - url: /images/make-logo-freelogovectors.net_ (1).png
         altText: Make logo
