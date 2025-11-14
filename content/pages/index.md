@@ -58,7 +58,7 @@ sections:
         type: ImageBlock
       - altText: Vise logo
         type: ImageBlock
-      - url: /images/Clay Logo Dark (1).png
+      - url: /images/Clay (1).jpg
         altText: Wellster logo
         type: ImageBlock
       - url: /images/telus-logo.svg
