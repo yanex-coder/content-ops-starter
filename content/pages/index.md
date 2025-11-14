@@ -53,7 +53,7 @@ sections:
           - pr-16
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/Make_idOfuxM-xp_0.svg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
